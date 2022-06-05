@@ -1,6 +1,13 @@
+# self
 /*
 !/.gitignore
 !/README.md
 !/LICENSE
+
+# /etc
 !/nsswitch.conf
 !/fstab
+
+# other
+!/My Keys.skl
+!/vi.bat
